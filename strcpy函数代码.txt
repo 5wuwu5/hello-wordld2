@@ -9,3 +9,6 @@ dst[i]=str[i];
 dst[len]='\0';
 return dst;
 }
+/**
+本地编辑 B21031517 毛俊豪
+**/
